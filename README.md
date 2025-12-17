@@ -1,6 +1,6 @@
 # ☠ HACKER BLACK SIGNAL ☠
 
-![HACKER BLACK SIGNAL – Visual Audio Engine](assets/hacker_black_signal_preview.png)
+![HACKER BLACK SIGNAL – Visual Audio Engine](https://github.com/mahdizebardastbarzin/hacker_black_signal/blob/main/hacker_black_signal.jpg)
 
 ## 🔥 Visual Audio Engine | Hacker-Themed Media Player
 
@@ -154,4 +154,5 @@ MIT License
 
 🔥 Security is real only when you understand the risk — not when you experience it.
 🛡️ HACKER BLACK SIGNAL | Educational Hacker Visual Audio Engine
+
 
